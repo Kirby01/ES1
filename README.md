@@ -1,3 +1,3 @@
 # ES1
-<br>//Use gain to dial amount of compression. May suit Master Buss.
+<br>//Use gain to set amount of compression. May suit Master Buss.
 
