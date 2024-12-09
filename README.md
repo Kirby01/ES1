@@ -1,4 +1,5 @@
 # ES1<br>
-2:1 Ratio Compressor.
+Gain plugin before ES1 will give more compression.<br>
+
 
 
